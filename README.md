@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
 <h3 align="center">Enthusiastic Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritzzh" alt="ritzzh" /></a> </p>
-
 - 🔭 I’m currently working on **Old Notes**
 
 - 🌱 I’m currently learning **React Native**
@@ -27,14 +25,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<br clear="both">
 
 ###
 
-<br clear="both">
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritzzh" alt="ritzzh" /></a> </p>
 
 ###
