@@ -82,24 +82,6 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritzzh&theme=tokyonight&hide_border=true" alt="ritzzh" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritzzh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ritzzh" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritzzh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="ritzzh" />
-</div>
-
----
-
 ## 🤝 Connect with me
 
 <p align="center">
