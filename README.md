@@ -42,7 +42,6 @@ A self-hosted invoicing platform built for pharmacies and small businesses. Hand
 A multi-portal EdTech platform serving admins, instructors, and students across three distinct subdomains.
 
 [![Website](https://img.shields.io/badge/skillupx.org-live-blue?style=flat-square&logo=google-chrome)](https://skillupx.org)
-[![LMS Portal](https://img.shields.io/badge/lms.skillupx.org-live-green?style=flat-square)](https://lms.skillupx.org)
 [![Admin Panel](https://img.shields.io/badge/admin.skillupx.org-live-red?style=flat-square)](https://admin.skillupx.org)
 
 **Highlights**
