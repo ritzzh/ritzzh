@@ -82,15 +82,6 @@ A self-hosted invoicing platform built for pharmacies and small businesses, cove
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ritzzh&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritzzh&layout=compact&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritzzh&hide_border=true" height="165"/>
-
 </div>
 
 <br/>
